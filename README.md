@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mina Rahmanian</h1>
-<h3 align="center">A passionate Data Sceintist/Analyst</h3>
+<h3 align="center">A passionate Data Sceintist/Analyst</h3></h3>
+
+<br /> 
 
 - 🌱 I’m currently enroll **the Junior Data Analyst Program at NPower Canada**
 

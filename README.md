@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning & Data Science Projects**
 
-- 📫 How to reach me **Mina.rahmaniansh@gmail.com**
+- 📫 How to reach me **mina.rahmaniansh@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mina-rahmaniansh/](https://www.linkedin.com/in/mina-rahmaniansh/)
 

@@ -11,19 +11,6 @@
 
 ###
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/mina-rahmaniansh/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:mina.rahmaniansh@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/452/gmail.png" alt="Gmail" height="30" width="30"/></a>
-</p>
-
-
-
-
-
-###
-
 <h2 align="left">Technologies Stack:</h2>
 
 <table align="left">
@@ -86,3 +73,16 @@
 
 
 ###
+
+
+
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/mina-rahmaniansh/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:mina.rahmaniansh@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/452/gmail.png" alt="Gmail" height="30" width="30"/></a>
+</p>
+
+###
+
+

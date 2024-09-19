@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">✨ I’m looking to collaborate on <strong><em>Machine Learning & Data Science Projects.</em></strong><br> 📚 I'm currently enrolling in The Junior Data Analyst Program at NPower Canada. <br>🎯 Goals: To become a proficient Data Scientist, contributing to impactful projects that drive innovation and solve real-world problems.<br>🎲 Fun fact: I enjoy mastering new languages—both programming and spoken. </p>
+<p align="left">✨ I’m looking to collaborate on <strong><em>Machine Learning & Data Science Projects.</em></strong><br> 📚 I recently graduated from the Junior Data Analyst Program. <br>🎯 Goals: To become a proficient Data Scientist, contributing to impactful projects that drive innovation and solve real-world problems.<br>🎲 Fun fact: I enjoy mastering new languages—both programming and spoken. </p>
 
 ###
 

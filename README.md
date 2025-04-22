@@ -1,4 +1,4 @@
-<h1 align="left">Hey there 👋</h1>
+<h1 align="left">Hello and Welcome👋</h1>
 <h4 align="center">"My name is Mina Rahmanian. A passionate Data Scientist and Analyst"</h4>
 
 ###
@@ -63,8 +63,8 @@
 
 
 ###
-<br><br><br><br><br><br><br><br><br><br>
-<h2 align="left">🔥   My Stats :</h2>
+<br><br><br><br><br><br><br><br><br><br><br>
+<h2 align="left">  My Stats :</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
